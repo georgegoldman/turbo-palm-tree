@@ -1,4 +1,4 @@
-#include "hello.h"
+#include "helloworld.h"
 #include <gtkmm/application.h>
 
 int main(int argc, char* argv[])
