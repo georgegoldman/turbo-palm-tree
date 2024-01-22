@@ -17,7 +17,7 @@ In this repository, I'm embarking on a journey to master Linux GUI application d
 
 ## How to Get Started
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `https://github.com/georgegoldman/turbo-palm-tree`
 2. Explore the projects in the `projects/` directory.
 3. Follow the `README.md` in each project for specific setup and usage instructions.
 
