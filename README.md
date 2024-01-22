@@ -6,8 +6,8 @@ In this repository, I'm embarking on a journey to master Linux GUI application d
 
 ## Projects
 
-- **[Project Name 1]:** Brief description of the first project and its purpose.
-- **[Project Name 2]:** Brief description of the second project and its purpose.
+- **Hello World:** A simple introductory project displaying the classic "Hello, World!" message.
+- **Button:** A project focused on creating and interacting with buttons in a Gtkmm-based application.
 
 ## Goals
 
@@ -17,7 +17,7 @@ In this repository, I'm embarking on a journey to master Linux GUI application d
 
 ## How to Get Started
 
-1. Clone the repository: `https://github.com/georgegoldman/turbo-palm-tree`
+1. Clone the repository: `git clone [repository_url]`
 2. Explore the projects in the `projects/` directory.
 3. Follow the `README.md` in each project for specific setup and usage instructions.
 
